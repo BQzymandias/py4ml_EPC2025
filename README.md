@@ -2,6 +2,7 @@
 Repositorio creado en la clase 3 del curso Python para Machine Learning
 
 #Fecha de creación del repositorio domingo 25 de mayo del 2025
+
 #URL del classroom: [Classroom](https://classroom.google.com/c/NzgzOTI5MjcyNTE1)
 
 #Lenguaje de Programacion
